@@ -20,5 +20,4 @@ Fueled by a deep enthusiasm for data, I am committed to leveraging analytics and
 <br/>
 
 ### Profile views counter 👁️‍🗨️
-
 [![AdMub profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/AdMub)
