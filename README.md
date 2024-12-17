@@ -14,10 +14,11 @@ Fueled by a deep enthusiasm for data, I am committed to leveraging analytics and
 
 
 ### My stats ⭐
-<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=AdMub"/>
-<img alt="my top langs" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdMub&layout=compact"/>
 
-<br/>
+<div align="center">
+<img alt="AdMub's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AdMub&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdMub&layout=compact&&langs_count=8"/>  
+</div>
 
 ### Profile views counter 👁️‍🗨️
 [![AdMub profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/AdMub)
